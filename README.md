@@ -1,6 +1,7 @@
 # Security-Audit-Checklist
 
 *Tech Preview Security Audit*
+
 For features that are being merged without full security model coverage,
 there need to be a base line of assurances that they do not introduce new
 attack vectors in deployments that are from actual releases or even just
@@ -43,6 +44,7 @@ issues?
 
 
 *GA Readiness Security Audit*
+
 At this point, we are merging full or partial security model
 implementations.
 Let's inventory what is covered by the model at this point and whether
